@@ -2,7 +2,7 @@
 CREATE TABLE layoffs_copia LIKE layoffs;
 
 #copiando todos os dados para a tabela cópia
-INSERT layoffs_copia SELECT * FROM layoffs;
+#INSERT layoffs_copia SELECT * FROM layoffs;
 
 #removendo os elementos duplicados
 ALTER TABLE layoffs_copia ADD COLUMN row_num INT;

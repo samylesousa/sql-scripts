@@ -14,7 +14,7 @@ O script SQL aplica boas práticas de tratamento de dados, incluindo:
 - **Conversão de tipos de dados**, especialmente campos de data.  
 - **Preenchimento de valores ausentes** e eliminação de registros inválidos.  
 
-O resultado [layoffs_copia](data-cleaning-layoffs\layoffs_copia.csv) é um conjunto de dados limpo, padronizado e pronto para uso em análises, dashboards ou pipelines ETL.
+O resultado [layoffs_copia](/data-cleaning-layoffs/layoffs_copia.csv) é um conjunto de dados limpo, padronizado e pronto para uso em análises, dashboards ou pipelines ETL.
 
 
 ## Tecnologias Utilizadas

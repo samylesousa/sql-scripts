@@ -15,3 +15,4 @@ Cada pasta contém um conjunto de arquivos `.sql` com comentários explicando a 
 
 ## Estrutura dos Arquivos
 1. [*Data Cleaning em SQL — Layoffs Dataset*](/data-cleaning-layoffs)
+2. [Layoffs Data Analysis — SQL Insights Project](/data-exploratory-layoffs/)

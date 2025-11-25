@@ -3,6 +3,24 @@
 Este script tem como objetivo demonstrar o processo completo de **limpeza, padronização e preparação de dados** utilizando **MySQL**.  
 O dataset utilizado contém informações sobre **demissões em empresas de tecnologia**, e o script realiza etapas essenciais de *data cleaning* para torná-lo pronto para análise.
 
+## Sobre o Banco de Dados
+Destaca-se que os dados foram fornecidos através de um arquivo CSV, o qual apresentou um banco de dados simples composto por uma única tabela, referente aos layoffs em empresas de vários setores. 
+
+Ademais, apresenta-se abaixo um diagrama da tabela e seus atributos antes e depois das operações realizadas no script.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure>
+    <img src="diagrama-banco/diagrama-antes.png" width="400" alt="diagrama-banco-dados-antes">
+    <figcaption>ANTES</figcaption>
+  </figure>
+  <figure>
+    <img src="diagrama-banco/diagrama-depois.png" width="400" alt="diagrama-banco-dados-depois">
+    <figcaption>DEPOIS</figcaption>
+  </figure>
+</div>
+
+Cabe mencionar que as alterações realizadas no banco não são muito aparentes à primeira vista, pois não foi necessário uma reestruturação completa dos metadados. A principal mudança ocorreu em apenas um dos atributos da tabela, que precisou ser ajustado para refletir corretamente o tipo de dado utilizado no projeto. Porém a limpeza e padronização realizada pode ser vista mais a fundo comparando os arquivos [layoffs](/data-cleaning-layoffs/layoffs.csv) e [layoffs_copia](/data-cleaning-layoffs/layoffs_copia.csv).
+
 
 ##  Sobre o Script
 

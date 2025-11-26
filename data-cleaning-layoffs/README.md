@@ -11,11 +11,9 @@ Ademais, apresenta-se abaixo um diagrama da tabela e seus atributos antes e depo
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure>
     <img src="diagrama-banco/layoffs-antes.png" width="400" alt="diagrama-banco-dados-antes">
-    <figcaption>ANTES</figcaption>
   </figure>
   <figure>
     <img src="diagrama-banco/layoffs-depois.png" width="400" alt="diagrama-banco-dados-depois">
-    <figcaption>DEPOIS</figcaption>
   </figure>
 </div>
 

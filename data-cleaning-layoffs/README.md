@@ -10,10 +10,10 @@ Ademais, apresenta-se abaixo um diagrama da tabela e seus atributos antes e depo
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure>
-    <img src="diagrama-banco/layoffs-antes.png" width="400" alt="diagrama-banco-dados-antes">
+    <img src="diagrama-banco/layoffs-antes.png" width="300" alt="diagrama-banco-dados-antes">
   </figure>
   <figure>
-    <img src="diagrama-banco/layoffs-depois.png" width="400" alt="diagrama-banco-dados-depois">
+    <img src="diagrama-banco/layoffs-depois.png" width="300" alt="diagrama-banco-dados-depois">
   </figure>
 </div>
 
